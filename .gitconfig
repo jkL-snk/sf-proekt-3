@@ -1,0 +1,9 @@
+[user]
+	name = jkL-snk@bakaneko.ru
+	email = meo@bakaneko.ru
+[core]
+	autocrlf = true
+	safecrlf = warn
+	quotepath = off
+[alias]
+	history = log --graph
